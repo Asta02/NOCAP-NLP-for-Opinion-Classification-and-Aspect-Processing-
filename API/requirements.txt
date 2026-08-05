@@ -1,0 +1,24 @@
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+matplotlib
+plotly
+wordcloud
+openpyxl
+transformers
+torch
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+datasets
+accelerate
+fastapi uvicorn
+python-multipart
+pydantic[email]
+passlib[bcrypt]
+PyJWT
+pydantic-settings
+python-dotenv

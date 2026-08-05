@@ -1,0 +1,155 @@
+﻿topic_id,document_count,topic_name,representative_words,topic_category
+0,4706,0_manager_management_bad_level,"manager, management, bad, level, mean, hire, leave, know, way, want",Management
+1,2167,1_politic_political_office_internal,"politic, political, office, internal, politics, benefit, smart, play, bureaucracy, big",Other
+2,1745,2_software_engineer_developer_development,"software, engineer, developer, development, senior, code, salary, engineering, balance, project",Compensation
+3,941,3_intern_internship_summer_research,"intern, internship, summer, research, project, experience, software, food, event, mentor",Other
+4,952,4_food_free_lunch_snack,"food, free, lunch, snack, coffee, gym, drink, cafeteria, meal, dinner",Benefits
+5,1208,5_hour_long_pay_shift,"hour, long, pay, shift, break, foot, short, benefit, overtime, week",Compensation
+6,1031,6_balance_life_salary_compensation,"balance, life, salary, compensation, pay, benefit, compare, poor, low, competitive",Work-Life Balance
+7,758,7_warehouse_associate_hour_pay,"warehouse, associate, hour, pay, shift, rate, worker, overtime, foot, easy",Compensation
+8,924,8_sale_sell_seller_sales,"sale, sell, seller, sales, product, support, specialist, commission, account, solution",Other
+9,1553,9_break_shift_minute_hour,"break, shift, minute, hour, rate, week, tell, pay, warehouse, overtime",Work-Life Balance
+10,1485,10_pay_bad_horrible_terrible,"pay, bad, horrible, terrible, hour, suck, discount, management, decent, rude",Compensation
+11,1007,11_401k_stock_option_insurance,"401k, stock, option, insurance, health, match, dental, medical, benefit, plan",Compensation
+12,579,12_boring_monotonous_repetitive_tedious,"boring, monotonous, repetitive, tedious, dull, meh, hour, easy, fun, pay",Work-Life Balance
+13,828,13_slow_process_decision_big,"slow, process, decision, big, large, smart, product, slowly, bureaucracy, growth",Work-Life Balance
+14,682,14_culture_learn_open_friendly,"culture, learn, open, friendly, environment, growth, opportunity, bla, experience, learning",Workplace Culture
+15,1584,15_challenge_impact_challenging_smart,"challenge, impact, challenging, smart, fast, problem, learn, technology, product, pace",Technology
+16,467,16_program_manager_senior_technical,"program, manager, senior, technical, project, balance, life, opportunity, role, culture",Work-Life Balance
+17,695,17_balance_life_learn_environment,"balance, life, learn, environment, pace, maintain, challenge, hard, difficult, challenging",Work-Life Balance
+18,488,18_campus_college_food_free,"campus, college, food, free, beautiful, student, perk, gym, school, feel",Other
+19,349,19_analyst_financial_business_finance,"analyst, financial, business, finance, data, senior, learn, quantitative, environment, culture",Compensation
+20,320,20_redmond_centric_outside_area,"redmond, centric, outside, area, seattle, campus, opportunity, office, live, benefit",Workplace Culture
+21,238,21_les_trã_pas_est,"les, trã, pas, est, des, travail, entreprise, une, bonne, pour",Compensation
+22,690,22_far_fine_find_mention,"far, fine, find, mention, come, big, well, moment, enjoy, care",Work-Life Balance
+23,286,23_applecare_advisor_home_ios,"applecare, advisor, home, ios, agent, discount, mac, iphone, imac, phone",Other
+24,228,24_netflix_fire_center_free,"netflix, fire, center, free, fear, freedom, movie, performance, let, say",Work-Life Balance
+25,212,25_und_sehr_der_ist,"und, sehr, der, ist, die, man, nicht, fã¼r, gute, mit",Work-Life Balance
+26,260,26_picker_pick_order_walk,"picker, pick, order, walk, break, rate, overtime, item, picking, hour",Work-Life Balance
+27,245,27_datum_drive_data_decision,"datum, drive, data, decision, research, analysis, entry, analyst, access, problem",Compensation
+28,160,28_vancouver_india_world_state,"vancouver, india, world, state, professional, , , , , ",Other
+29,276,29_fulfillment_associate_center_hour,"fulfillment, associate, center, hour, pay, shift, season, schedule, break, peak",Compensation
+30,181,30_investigator_risk_transaction_investigation,"investigator, risk, transaction, investigation, trms, specialist, shift, investigations, fraud, trm",Other
+31,231,31_advisor_home_aha_chat,"advisor, home, aha, chat, senior, support, call, training, benefit, service",Workplace Culture
+32,193,32_satya_nadella_ceo_old,"satya, nadella, ceo, old, change, leadership, direction, transformation, mindset, culture",Leadership
+33,210,33_dress_code_casual_wear,"dress, code, casual, wear, attire, friendly, timing, jean, relaxed, shirt",Work-Life Balance
+34,477,34_balance_life_opportunity_career,"balance, life, opportunity, career, growth, limited, grow, learn, learning, development",Career Growth
+35,341,35_long_hour_late_environment,"long, hour, late, environment, travel, smart, peak, weekend, pace, economist",Work-Life Balance
+36,621,36_principle_leadership_leader_culture,"principle, leadership, leader, culture, principles, challenge, focus, business, drive, value",Leadership
+37,242,37_interview_process_recruiter_hiring,"interview, process, recruiter, hiring, question, interviewer, hire, long, candidate, take",Other
+38,664,38_lack_leadership_poor_management,"lack, leadership, poor, management, manager, bad, middle, senior, leader, skill",Management
+39,315,39_salary_environment_pay_atmosphere,"salary, environment, pay, atmosphere, friendly, enviroment, compare, hike, benefit, bonus",Compensation
+40,276,40_culture_balance_life_learning,"culture, balance, life, learning, maintain, flexibility, perk, balanced, learn, personal",Workplace Culture
+41,338,41_shift_night_rotational_timing,"shift, night, rotational, timing, off, shifts, environment, change, friendly, associate",Work-Life Balance
+42,243,42_negative_downside_comment_bad,"negative, downside, comment, bad, nil, experience, wonderful, not, hate, positive",Compensation
+43,131,43_family_specialist_room_discount,"family, specialist, room, discount, technician, genius, training, difficult, repair, position",Work-Life Balance
+44,484,44_marketing_manager_product_supply,"marketing, manager, product, supply, senior, sales, brand, vendor, chain, global",Work-Life Balance
+45,432,45_fun_coworker_worker_friendly,"fun, coworker, worker, friendly, busy, staff, workplace, interesting, exciting, meet",Workplace Culture
+46,418,46_pay_benefit_decent_insurance,"pay, benefit, decent, insurance, care, compensation, employer, health, benifit, okay",Compensation
+47,496,47_schedule_flexible_home_flexibility,"schedule, flexible, home, flexibility, scheduling, hour, advisor, flex, month, training",Scheduling
+48,311,48_windows_azure_nokia_xbox,"windows, azure, nokia, xbox, mobile, phone, product, msft, office, cloud",Technology
+49,204,49_account_manager_executive_technical,"account, manager, executive, technical, operations, strategist, accounting, strategic, client, partner",Leadership
+50,283,50_seattle_live_city_downtown,"seattle, live, city, downtown, commute, area, location, weather, cost, office",Workplace Culture
+51,192,51_genius_bar_admin_administrator,"genius, bar, admin, administrator, discount, schedule, benefit, weekend, appointment, pay",Benefits
+52,132,52_history_fun_hard_make,"history, fun, hard, make, pace, interesting, fast, find, bar, prototype",Career Growth
+53,98,53_csa_home_virtual_vcc,"csa, home, virtual, vcc, training, call, flexible, log, metric, reserve",Work-Life Balance
+54,300,54_fun_environment_experience_cool,"fun, environment, experience, cool, enjoy, ride, exciting, atmosphere, not, fast",Workplace Culture
+55,250,55_benefit_health_package_far,"benefit, health, package, far, insurance, perk, youâ, include, insane, medical",Benefits
+56,264,56_room_associate_growth_grow,"room, associate, growth, grow, advancement, advance, facility, service, training, environment",Career Growth
+57,147,57_amazon_com_kindle_amazons,"amazon, com, kindle, amazons, bezos, jeff, alexa, vine, business, in",Compensation
+58,506,58_salary_high_competitive_bonus,"salary, high, competitive, bonus, pay, increase, benefit, average, compensation, pressure",Compensation
+59,375,59_college_student_school_tuition,"college, student, school, tuition, degree, pay, reimbursement, campus, decent, discount",Compensation
+60,100,60_packer_pack_break_hour,"packer, pack, break, hour, pay, packing, minute, shift, week, 000",Compensation
+61,278,61_culture_negative_life_balance,"culture, negative, life, balance, bad, downside, poor, growth, environment, cult",Workplace Culture
+62,330,62_specialist_pay_benefit_room,"specialist, pay, benefit, room, advancement, technical, discount, benefits, training, salary",Compensation
+63,984,63_coworker_benefit_environment_feel,"coworker, benefit, environment, feel, workplace, training, friendly, care, worker, positive",Workplace Culture
+64,411,64_communication_lack_poor_support,"communication, lack, poor, support, problem, management, environment, issue, manager, atmosphere",Other
+65,222,65_career_start_path_college,"career, start, path, college, opportunity, grad, fresher, resume, learn, growth",Career Growth
+66,146,66_area_manager_pay_salary,"area, manager, pay, salary, hour, long, week, operations, balance, upper",Compensation
+67,460,67_load_workload_heavy_environment,"load, workload, heavy, environment, fast, pace, operational, high, smart, busy",Work-Life Balance
+68,612,68_horrible_terrible_bad_management,"horrible, terrible, bad, management, awful, incompetent, suck, manager, hr, unprofessional",Management
+69,286,69_low_salary_compare_environment,"low, salary, compare, environment, pay, friendly, wage, poor, average, colleague",Compensation
+70,175,70_salary_culture_hike_fresher,"salary, culture, hike, fresher, pay, perk, average, compare, freedom, prospect",Compensation
+71,120,71_robot_treat_human_break,"robot, treat, human, break, robotic, minute, robots, walk, machine, associate",Workplace Culture
+72,107,72_bad_wrong_single_suck,"bad, wrong, single, suck, woop, garbage, not, tbh, nice, shabby",Compensation
+73,631,73_tech_salary_technology_opportunity,"tech, salary, technology, opportunity, career, smart, growth, stock, compensation, benefit",Compensation
+74,88,74_amazonian_amazonians_principle_proud,"amazonian, amazonians, principle, proud, ownership, amazon, leadership, platform, autonomy, find",Leadership
+75,166,75_experience_gain_learn_different,"experience, gain, learn, different, experienced, far, recommend, exposure, learning, find",Career Growth
+76,377,76_slow_career_growth_progression,"slow, career, growth, progression, stagnant, balance, lack, life, benefit, opportunity",Career Growth
+77,438,77_culture_focus_technology_smart,"culture, focus, technology, smart, innovation, open, centric, fast, innovative, edge",Workplace Culture
+78,261,78_secrecy_secretive_product_security,"secrecy, secretive, product, security, information, secret, open, duplication, smart, effort",Other
+79,368,79_balance_life_technology_smart,"balance, life, technology, smart, edge, tech, innovative, challenge, learn, learning",Technology
+80,389,80_growth_benefit_opportunity_grow,"growth, benefit, opportunity, grow, limited, potential, big, large, compensation, position",Compensation
+81,546,81_change_new_big_organization,"change, new, big, organization, ceo, transformation, leadership, process, focus, impact",Compensation
+82,360,82_friendly_environment_relaxed_office,"friendly, environment, relaxed, office, atmosphere, comfortable, facility, peaceful, space, perfect",Workplace Culture
+83,293,83_fun_discount_benefit_cool,"fun, discount, benefit, cool, free, product, perk, health, enjoy, smart",Benefits
+84,288,84_overtime_seasonal_mandatory_holiday,"overtime, seasonal, mandatory, holiday, season, pay, peak, hour, christmas, week",Compensation
+85,189,85_support_engineer_technical_network,"support, engineer, technical, network, learn, technician, technology, dba, balance, premier",Technology
+86,85,86_amazon_com_amazonian_peak,"amazon, com, amazonian, peak, mandatory, amazonians, seasonal, amazons, week, pay",Career Growth
+87,219,87_holiday_season_weekend_christmas,"holiday, season, weekend, christmas, schedule, hour, busy, especially, family, seasonal",Work-Life Balance
+88,63,88_zone_red_redzone_specialist,"zone, red, redzone, specialist, discount, sale, worker, student, schedule, form",Compensation
+89,283,89_challenge_challenging_fun_pace,"challenge, challenging, fun, pace, hard, fast, exciting, tough, intense, competitive",Other
+90,102,90_cab_coupon_sodexo_facility,"cab, coupon, sodexo, facility, free, allowance, transport, food, meal, salary",Facilities
+91,201,91_opportunity_chance_grow_orient,"opportunity, chance, grow, orient, available, learn, explore, give, potential, number",Career Growth
+92,172,92_fulfillment_associate_center_rate,"fulfillment, associate, center, rate, hour, peak, shift, warehouse, easy, season",Work-Life Balance
+93,376,93_technology_innovative_innovation_new,"technology, innovative, innovation, new, product, edge, idea, innovate, tech, exciting",Other
+94,66,94_cloud_support_engineer_technology,"cloud, support, engineer, technology, center, profile, unique, service, learn, associate",Technology
+95,162,95_mac_iphone_genius_computer,"mac, iphone, genius, computer, ipad, ipod, macbook, applecare, product, ios",Technology
+96,466,96_project_interesting_smart_small,"project, interesting, smart, small, large, big, cog, engineer, exciting, tool",Career Growth
+97,243,97_environment_bad_negative_atmosphere,"environment, bad, negative, atmosphere, nightmare, rude, terrible, not, bady, facility",Workplace Culture
+98,136,98_sorter_sortation_sort_easy,"sorter, sortation, sort, easy, shift, scan, associate, hour, seasonal, package",Work-Life Balance
+99,561,99_career_growth_opportunity_grow,"career, growth, opportunity, grow, experience, learn, path, skill, professional, role",Career Growth
+100,731,100_feel_stressful_feeling_stress,"feel, stressful, feeling, stress, environment, bit, hour, little, help, experience",Workplace Culture
+101,77,101_data_scientist_science_analyst,"data, scientist, science, analyst, researcher, phd, oppourtunity, statistician, salary, project",Career Growth
+102,155,102_autonomy_ownership_autonomous_freedom,"autonomy, ownership, autonomous, freedom, drive, responsibility, independence, flexibility, reward, fast",Leadership
+103,308,103_pressure_stress_stressful_high,"pressure, stress, stressful, high, environment, fast, pace, learn, load, deadline",Work-Life Balance
+104,865,104_discount_pay_benefit_promotion,"discount, pay, benefit, promotion, fun, coworker, bonus, decent, free, product",Compensation
+105,696,105_leadership_lack_culture_change,"leadership, lack, culture, change, focus, opportunity, role, management, career, growth",Leadership
+106,280,106_vacation_holiday_pay_pto,"vacation, holiday, pay, pto, sick, unpaid, benefit, hour, schedule, overtime",Compensation
+107,400,107_smart_technology_innovation_big,"smart, technology, innovation, big, edge, agile, product, impact, cut, world",Technology
+108,115,108_traffic_commute_francisco_san,"traffic, commute, francisco, san, bad, weather, transportation, food, transport, city",Other
+109,451,109_pay_money_decent_easy,"pay, money, decent, easy, payment, okay, hard, low, not, pretty",Compensation
+110,105,110_oncall_call_phone_duty,"oncall, call, phone, duty, load, hectic, operational, annoying, technology, software",Other
+111,73,111____,", , , , , , , , , ",Leadership
+112,572,112_engineer_engineering_project_design,"engineer, engineering, project, design, smart, impact, product, problem, solve, tech",Other
+113,121,113_culture_benefit_diverse_improve,"culture, benefit, diverse, improve, inspiring, prominent, lose, compensation, organization, land",Workplace Culture
+114,115,114_cool_fun_funny_enjoyable,"cool, fun, funny, enjoyable, crazy, genius, super, stuff, guy, someday",Other
+115,701,115_fun_friendly_experience_training,"fun, friendly, experience, training, colleague, environment, recruiter, culture, positive, exciting",Workplace Culture
+116,592,116_project_smart_exciting_interesting,"project, smart, exciting, interesting, world, idea, learn, big, brilliant, new",Career Growth
+117,62,117_catalog_associate_catalogue_preety,"catalog, associate, catalogue, preety, tasks, online, specialist, explore, fresher, upto",Career Growth
+118,523,118_opportunity_big_large_business,"opportunity, big, large, business, impact, group, career, world, politic, change",Career Growth
+119,715,119_weekend_friendly_schedule_hour,"weekend, friendly, schedule, hour, training, fun, shift, busy, care, week",Work-Life Balance
+120,104,120_learn_grow_awsome_improve,"learn, grow, awsome, improve, skill, growth, carrier, latrelly, indepennent, plateform",Career Growth
+121,688,121_challenge_learn_challenging_learning,"challenge, learn, challenging, learning, problem, smart, fast, hard, environment, solve",Work-Life Balance
+122,285,122_hour_long_opportunity_learn,"hour, long, opportunity, learn, peak, experience, flexible, benefit, week, hours",Work-Life Balance
+123,77,123_bay_expensive_live_cost,"bay, expensive, live, cost, living, housing, area, commute, traffic, price",Compensation
+124,480,124_opportunity_career_growth_benefit,"opportunity, career, growth, benefit, advancement, fantastic, experience, provide, incredible, wonderful",Career Growth
+125,129,125_msft_msgd_msit_group,"msft, msgd, msit, group, entity, stock, old, benefit, level, stack",Compensation
+126,555,126_grow_growth_strong_environment,"grow, growth, strong, environment, challenge, culture, learn, leadership, development, opportunity",Career Growth
+127,81,127_slave_slavery_labor_modern,"slave, slavery, labor, modern, treat, break, camp, condition, labour, pay",Other
+128,194,128_schedule_inconsistent_scheduling_hour,"schedule, inconsistent, scheduling, hour, flexible, week, associate, consistent, unreliable, fluctuate",Scheduling
+129,637,129_salary_competitive_growth_pay,"salary, competitive, growth, pay, benefit, opportunity, career, compensation, grow, development",Compensation
+130,232,130_senior_manager_marketing_product,"senior, manager, marketing, product, management, leadership, business, level, change, decision",Leadership
+131,115,131_cloud_computing_solution_architect,"cloud, computing, solution, architect, technology, service, compute, data, learn, azure",Technology
+132,508,132_difficult_promotion_promote_hard,"difficult, promotion, promote, hard, challenging, frustrating, training, lack, challenge, impossible",Work-Life Balance
+133,220,133_manager_area_week_month,"manager, area, week, month, associate, peak, position, hourly, salary, hour",Compensation
+134,674,134_career_skill_grow_develop,"career, skill, grow, develop, experience, learn, professional, life, hard, personal",Career Growth
+135,121,135_advisor_product_consumer_specialist,"advisor, product, consumer, specialist, commission, environment, service, benefit, opportunity, mobility",Compensation
+136,151,136_area_manager_operation_peak,"area, manager, operation, peak, long, assistant, opportunity, fast, pace, operations",Leadership
+137,72,137_complaint_complain_complaints_cranky,"complaint, complain, complaints, cranky, rude, obnoxious, dissappointe, mcfly, mae, tttttt",Other
+138,351,138_poor_bad_salary_pay,"poor, bad, salary, pay, culture, management, benefit, low, compensation, decent",Compensation
+139,138,139_delivery_driver_package_app,"delivery, driver, package, app, deliver, flex, tap, route, van, shipping",Work-Life Balance
+140,397,140_impact_product_opportunity_big,"impact, product, opportunity, big, world, incredible, grow, huge, innovative, innovation",Career Growth
+141,403,141_software_engineer_developer_development,"software, engineer, developer, development, engineering, project, code, design, focus, tool",Other
+142,134,142_atmosphere_environment_climate_inhouse,"atmosphere, environment, climate, inhouse, enviroment, earth, facility, enviornment, city, borre",Workplace Culture
+143,397,143_holiday_family_discount_home,"holiday, family, discount, home, schedule, benefit, season, month, weekend, flexible",Work-Life Balance
+144,64,144_vto_pto_upt_overtime,"vto, pto, upt, overtime, rate, break, fired, outbound, available, short",Work-Life Balance
+145,64,145_perfect_wonderful_incredible_fabulous,"perfect, wonderful, incredible, fabulous, soo, superb, fantastic, absolutely, awsome, world",Work-Life Balance
+146,123,146_stack_rank_ranking_system,"stack, rank, ranking, system, rating, performance, peer, force, bad, undermine",Compensation
+147,78,147_parking_park_downtown_traffic,"parking, park, downtown, traffic, space, location, building, car, bad, cant",Other
+148,95,148_assistant_process_associate_pace,"assistant, process, associate, pace, fast, tier, training, train, support, helpful",Work-Life Balance
+149,486,149_culture_product_lack_process,"culture, product, lack, process, technology, management, difficult, collaborative, smart, poor",Workplace Culture
+150,180,150_culture_compensation_pay_benefit,"culture, compensation, pay, benefit, perk, reward, colleague, fantastic, fun, cultural",Workplace Culture
+151,152,151_frugal_frugality_money_cheap,"frugal, frugality, money, cheap, learning, curve, smart, perk, cost, centric",Work-Life Balance
+152,176,152_benefit_bad_terrible_health,"benefit, bad, terrible, health, suck, horrible, treat, insurance, package, money",Benefits
+153,226,153_director_ceo_business_vision,"director, ceo, business, vision, market, leader, marketing, term, leadership, global",Leadership
