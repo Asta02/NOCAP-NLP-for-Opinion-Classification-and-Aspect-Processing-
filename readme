@@ -1,0 +1,306 @@
+# NOCAP: NLP for Opinion Classification and Aspect Processing
+
+An AI-powered Employee Feedback Analysis System that combines Natural Language Processing (NLP), sentiment analysis, topic modeling, aspect extraction, and a modern web dashboard to help organizations analyze employee reviews and generate actionable insights.
+
+---
+
+## Features
+
+### Backend (FastAPI)
+
+- RESTful API built with FastAPI
+- JWT Authentication
+- Company & Admin accounts
+- CSV review import
+- Automatic NLP pipeline
+- Sentiment Analysis (RoBERTa)
+- Aspect Extraction
+- Aspect-Based Sentiment Analysis
+- Topic Modeling (BERTopic)
+- Keyword Extraction
+- AI-generated Recommendations
+- Dashboard Analytics
+- PostgreSQL integration
+- Repository + Unit of Work architecture
+
+---
+
+### Frontend (Next.js)
+
+- Next.js + TypeScript
+- Tailwind CSS
+- Responsive Dashboard
+- Company Portal
+- Admin Portal
+- AI Processing Dashboard
+- Review History
+- Company Management
+- Authentication
+
+---
+
+## Project Structure
+
+```
+.
+├── API/
+│   ├── analysis/
+│   ├── api/
+│   ├── csv_processing/
+│   ├── database/
+│   ├── preprocessing/
+│   ├── sentiment/
+│   ├── services/
+│   ├── summarization/
+│   ├── topic/
+│   ├── topic_modeling/
+│   └── app.py
+│
+├── Front_End/
+│   ├── app/
+│   ├── components/
+│   ├── hooks/
+│   ├── services/
+│   └── types/
+│
+└── Mockup Image/
+```
+
+---
+
+## Technology Stack
+
+### Backend
+
+- Python 3.12+
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Pydantic
+- JWT Authentication
+- Passlib (bcrypt)
+
+### NLP
+
+- Hugging Face Transformers
+- RoBERTa
+- BERTopic
+- Sentence Transformers
+- scikit-learn
+- Pandas
+- NumPy
+
+### Frontend
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+
+---
+
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Asta02/NOCAP-NLP-for-Opinion-Classification-and-Aspect-Processing-.git
+
+cd NOCAP-NLP-for-Opinion-Classification-and-Aspect-Processing-
+```
+
+---
+
+## Backend Setup
+
+Create a virtual environment:
+
+```bash
+cd API
+
+python -m venv venv
+```
+
+Activate it.
+
+Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Copy the environment file:
+
+```bash
+cp .env.example .env
+```
+
+Edit `.env`:
+
+```env
+DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5432/employee_feedback
+
+JWT_SECRET_KEY=your_secret_key
+
+JWT_ALGORITHM=HS256
+
+JWT_EXPIRE_MINUTES=1440
+
+ADMIN_USERNAME=admin
+
+ADMIN_PASSWORD=admin123
+
+DEBUG=True
+```
+
+Run the API:
+
+```bash
+python app.py
+```
+
+or
+
+```bash
+uvicorn api.main:app --reload
+```
+
+---
+
+## Frontend Setup
+
+```bash
+cd Front_End
+
+npm install
+
+npm run dev
+```
+
+---
+
+## Machine Learning Models
+
+Large trained model files are **not included** in this repository because they exceed GitHub's file size limits.
+
+Download or train the required models and place them inside:
+
+```
+API/models/
+```
+
+Examples include:
+
+- BERTopic model
+- RoBERTa sentiment model
+
+---
+
+## API Features
+
+- Authentication
+- Company Management
+- CSV Upload
+- Review Analysis
+- Dashboard Analytics
+- Topic Analysis
+- Sentiment Analysis
+- Processing Jobs
+
+---
+
+## Architecture
+
+The backend follows a layered architecture.
+
+```
+FastAPI
+     │
+     ▼
+Application Services
+     │
+     ▼
+Unit of Work
+     │
+     ▼
+Repositories
+     │
+     ▼
+SQLAlchemy Models
+     │
+     ▼
+PostgreSQL
+```
+
+The NLP pipeline is organized separately:
+
+```
+CSV
+    │
+    ▼
+Validation
+    │
+    ▼
+Mapping
+    │
+    ▼
+Review Analyzer
+    │
+    ├── Sentiment Analysis
+    ├── Topic Modeling
+    ├── Aspect Extraction
+    ├── Keyword Extraction
+    └── Recommendation
+    │
+    ▼
+Database
+```
+
+---
+
+## Screenshots
+
+Screenshots of the application UI can be found in:
+
+```
+Mockup Image/
+```
+
+including:
+
+- Admin Dashboard
+- Company Dashboard
+- Company Reviews
+- Upload Processing
+- AI Dashboard
+
+---
+
+## Security
+
+- Passwords hashed using bcrypt
+- JWT Authentication
+- Environment variables stored in `.env`
+- `.env` excluded from Git
+
+---
+
+## Author
+
+**Athar Winda**
+
+Bachelor Thesis Project
+
+NLP for Opinion Classification and Aspect Processing
+
+---
+
+## License
+
+This project is intended for educational and research purposes.
