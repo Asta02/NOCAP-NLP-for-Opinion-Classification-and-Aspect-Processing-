@@ -15,10 +15,12 @@ umap-learn
 hdbscan
 datasets
 accelerate
-fastapi uvicorn
+fastapi
+uvicorn
 python-multipart
 pydantic[email]
 passlib[bcrypt]
 PyJWT
 pydantic-settings
 python-dotenv
+sqlalchemy
